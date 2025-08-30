@@ -1,0 +1,40 @@
+<ModMetaData>
+  <packageId>Combat.System.Rebalanced</packageId>
+  <name>Combat System Rebalanced</name>
+  <author>cjalcortez-ops</author>
+  <url>https://github.com/your-repo-link</url>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+
+  <modDependencies>
+    <!-- Add required mods here if needed -->
+  </modDependencies>
+
+  <loadBefore>
+    <!-- Add mods here if Combat System Rebalanced should load first -->
+  </loadBefore>
+
+  <loadAfter>
+    <!-- Add mods here if Combat System Rebalanced should load after them -->
+    <!-- Example: <li>VanillaExpanded.VWeapons</li> -->
+  </loadAfter>
+
+  <description>
+    Combat System Rebalanced reworks how armor and damage interact in RimWorld, 
+    reducing RNG dominance and creating fairer, more tactical combat. 
+    
+    ✦ Features:
+    • Dynamic damage reduction that scales with penetration vs armor difference.  
+    • Removes the extreme all-or-nothing armor checks, ensuring even strong armor can be chipped away.  
+    • Prevents late-game armored enemies (such as modded mech suits) from becoming invulnerable walls.  
+    • Shifts combat towards balance and strategy, where both equipment and tactics matter more than luck.  
+
+    ✦ Compatibility:
+    • Works fully standalone.  
+    • Designed to be compatible with most combat-related mods.  
+    • Optional load order tags included for flexibility.  
+
+    Feedback and suggestions are always welcome!
+  </description>
+</ModMetaData>
